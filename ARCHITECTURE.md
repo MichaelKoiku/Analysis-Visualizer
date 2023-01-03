@@ -1,4 +1,4 @@
-## Archictecture
+## Architecture
 
 The entire application will be composed of 6 layers:
 
