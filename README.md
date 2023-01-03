@@ -4,7 +4,7 @@ A desktop GUI application for visualizing certain analysis on countries from dif
 
 Features:
 1. Account Login and Registration
-2. User Selection Validators
+2. User Selection Validation
 3. Chart Rendering
 
 Libraries & Tools used:
