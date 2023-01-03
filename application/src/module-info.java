@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author michaelkoiku
+ *
+ */
+module application {
+}
