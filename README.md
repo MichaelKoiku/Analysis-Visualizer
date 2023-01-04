@@ -4,6 +4,12 @@ A desktop GUI application for visualizing certain analysis on countries from dif
 
 <img width="1359" alt="Screenshot 2023-01-03 at 2 15 04 PM" src="https://user-images.githubusercontent.com/33135632/210425634-c2e53716-8b70-41b1-b6e5-b1c91967475f.png">
 
+Features:
+1. Account Login and Registration
+2. User Selection Validation
+3. Data Fetching
+4. Chart Rendering
+
 ## Architecture
 
 The entire application will be composed of 6 layers:
@@ -43,13 +49,7 @@ foundation of the Strategy pattern while the sub-classes of Analysis.java in the
 6. **Observer Design Pattern:** The Observer pattern is used to handle the graph viewers. The graph viewers are subscribing to a Subject that notifies the viewers once data has been received. Upon being notified, the viewers will then draw their respective graphs.
   b. Location of Implementation: Viewer.java and Subject.java in resultsViewLayer package. There are different viewer classes that extend Viewer.java.
 
-Features:
-1. Account Login and Registration
-2. User Selection Validation
-3. Data Fetching
-4. Chart Rendering
-
-Libraries & Tools used:
+## Libraries & Tools used
 1. JFreeChart: https://www.jfree.org/jfreechart/
 2. World Bank API
 3. Open Covid API
