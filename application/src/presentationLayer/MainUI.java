@@ -28,12 +28,6 @@ import java.awt.event.ItemEvent;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 
-/**
- * This class is the main user interface of the application
- * 
- * @author Michael Koiku & Patrick Koziarski
- * 
- */
 public class MainUI extends JFrame {
 	private static MainUI instance;
 	private CountryCodeRepository repo = CountryCodeRepository.getInstance();
