@@ -1,0 +1,5 @@
+/application/.settings
+/application/bin
+/application/target
+/application/.classpath
+/application/.project
