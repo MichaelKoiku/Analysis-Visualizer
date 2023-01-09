@@ -1,6 +1,6 @@
 # Analysis-Visualizer
 
-A desktop GUI application for visualizing certain analysis on countries from different data banks.
+A desktop GUI application for visualizing certain analyses on countries from different data banks.
 
 <img width="1359" alt="Screenshot 2023-01-03 at 2 15 04 PM" src="https://user-images.githubusercontent.com/33135632/210425634-c2e53716-8b70-41b1-b6e5-b1c91967475f.png">
 
