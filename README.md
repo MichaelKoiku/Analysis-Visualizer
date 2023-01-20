@@ -1,4 +1,4 @@
-# Analysis-Visualizer
+# Data-Analyzer
 
 A desktop GUI application for visualizing certain analyses on countries from different data banks.
 
